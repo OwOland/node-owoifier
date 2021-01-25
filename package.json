@@ -1,0 +1,27 @@
+{
+  "name": "node-owoifier",
+  "version": "1.0.0",
+  "description": "A text OwOifier made for NodeJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwOland/node-owoifier.git"
+  },
+  "keywords": [
+    "Node",
+    "owo",
+    "uwu",
+    "cute",
+    "tejas",
+    "agarwal"
+  ],
+  "author": "Tejas Agarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OwOland/node-owoifier/issues"
+  },
+  "homepage": "https://github.com/OwOland/node-owoifier#readme"
+}
